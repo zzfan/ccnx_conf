@@ -1,0 +1,1366 @@
+# 这个 viminfo 文件是由 Vim 7.4 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 上个 Search 图案：
+~Msle0~/\<include\>
+
+# 上个 替换 Search 图案：
+~MSle0&ans
+
+# 最后替换的字符串
+$ans1
+
+# 命令行 历史记录 (从新到旧)：
+:q
+:wq
+:w
+:set paste
+:q!
+:qall
+:q;
+:Pq
+:/insert
+:/\
+:.,.+5!workspace='/home/zzfanhero/Documents/GitHub/ndn'
+:set paset
+:/au
+:wwq
+:WQ
+:"a3yy
+:"a26yy
+:"ap
+:/width
+:colorscheme blueprint
+
+# 查找字符串 历史记录 (从新到旧)：
+? \<include\>
+? insert
+? \
+?/bin/sh
+?/h3>
+?/h2>
+? \<all\.\.\.\>
+? \<git\>
+? au
+? -------------------
+? \<test\>
+?/usr/bin/env python
+? width
+??q
+? content_to
+? content
+? interest_to
+? interet_to
+? \<destination\>
+? \<webpage\>
+
+# 表达式 历史记录 (从新到旧)：
+=acp#onPopupPost()
+
+# 输入行 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+"0	LINE	0
+	![test](/images/test.png)
+""1	LINE	0
+	#include "ns3/make-event.h"
+"2	LINE	0
+	        SendInterest("/video/0");
+"3	LINE	0
+	
+"4	LINE	0
+	# ================
+	# author: lizzfan
+	# date: 10/16/2013
+	# all rights reserved
+	# ================
+"5	LINE	0
+	# ===================
+	# author: lihebi
+	# date: 10/16/2013
+	# ===================
+"6	LINE	0
+	# ===================== # author: lihebi
+	# date: 10/15/2013
+	# =====================
+"7	LINE	0
+	# ================
+	# author: lihebi
+	# date: 10/15/2013
+	# ================
+"8	LINE	0
+	# ====================
+	# author: lihebi
+	# date: 10/15/2013
+	# ====================
+"9	LINE	0
+	# ==================
+	# author: lihebi
+	# date: 10/15/2013
+	# ==================
+"p	LINE	0
+	
+	
+	::::::::::::::::::::::::
+	日期：公元2015年9月8日　星期二 
+	电脑：unix  0.009244 seconds 
+	版本：vim=704 
+	编码：utf-8　utf8,ucs-bom,gbk,cp936,gb2312,gb18030 
+	环境：en_US.UTF-8 
+	词库：标准字库：/home/zzfanhero/.vim/plugin/vimim.cjk.txt 
+	词库：英文词库：/home/zzfanhero/.vim/plugin/vimim.txt 
+	词库：云词库： 
+	联网：HTTP executable:  
+	输入：VimIM　==broken python interface to vim==　四角号码　英文　 
+	选项：vimimrc 
+	    :let g:vimim_cloud = -1  
+	    :let g:vimim_map = 'c-/'  
+	    :let g:vimim_punctuation = 0  
+	  " :let g:vimim_mode = 'dynamic'  
+	  " :let g:vimim_mycloud = 0  
+	  " :let g:vimim_plugin = '/home/zzfanhero/.vim/plugin'  
+	  " :let g:vimim_shuangpin = 0  
+	  " :let g:vimim_toggle = '' 
+	::::::::::::::::::::::::
+	
+	".bashrc" 
+	".bashrc" 132L, 4381C
+"-	CHAR	0
+	 
+
+# 文件标记:
+'Z  83  26  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.cc
+'0  124  0  ~/.bashrc
+'1  83  26  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.cc
+'2  63  63  ~/Documents/github/ndnSIM/scenario/scenarios/ndn-grid-topo-plugin.cc
+'3  7  0  ~/Documents/github/ndnSIM/scenario/scenarios/flow-producer.cc
+'4  148  0  ~/Documents/github/ndnSIM/scenario/extensions-bak/flow-producer.cc
+'5  28  0  ~/Documents/github/ndnSIM/scenario/scenarios/flow.cc
+'6  69  55  ~/Documents/github/ndnSIM/scenario/topo/stream.txt
+'7  26  30  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.cc
+'8  21  14  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.cc
+'9  1  0  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.
+
+# 跳转列表 (从新到旧):
+-'  124  0  ~/.bashrc
+-'  2  54  ~/.bashrc
+-'  132  55  ~/.bashrc
+-'  83  26  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.cc
+-'  63  63  ~/Documents/github/ndnSIM/scenario/scenarios/ndn-grid-topo-plugin.cc
+-'  81  3  ~/Documents/github/ndnSIM/scenario/scenarios/ndn-grid-topo-plugin.cc
+-'  7  0  ~/Documents/github/ndnSIM/scenario/scenarios/flow-producer.cc
+-'  1  0  ~/Documents/github/ndnSIM/scenario/scenarios/flow-producer.cc
+-'  148  0  ~/Documents/github/ndnSIM/scenario/extensions-bak/flow-producer.cc
+-'  120  0  ~/Documents/github/ndnSIM/scenario/extensions-bak/flow-producer.cc
+-'  28  0  ~/Documents/github/ndnSIM/scenario/scenarios/flow.cc
+-'  56  26  ~/Documents/github/ndnSIM/scenario/scenarios/flow.cc
+-'  69  55  ~/Documents/github/ndnSIM/scenario/topo/stream.txt
+-'  52  25  ~/Documents/github/ndnSIM/scenario/topo/stream.txt
+-'  26  30  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.cc
+-'  21  14  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.cc
+-'  12  23  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.cc
+-'  28  0  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.cc
+-'  27  8  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.cc
+-'  65  24  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.cc
+-'  1  0  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.
+-'  68  8  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.cc
+-'  26  5  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.h
+-'  1  0  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.h
+-'  120  25  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.cc
+-'  100  0  ~/Documents/github/ndnSIM/scenario/scenarios/ndn-grid-topo-plugin.cc
+-'  7  31  ~/Documents/github/ndnSIM/scenario/a.sh
+-'  1  0  ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.cc
+-'  113  43  ~/Documents/github/ndnSIM/scenario/scenarios/flow.cc
+-'  120  16  ~/Documents/github/ndnSIM/scenario/scenarios/flow.cc
+-'  128  17  ~/Documents/github/ndnSIM/scenario/scenarios/flow.cc
+-'  50  0  ~/Documents/github/ndnSIM/scenario/scenarios/flow.cc
+-'  4  0  ~/Documents/github/ndnSIM/scenario/a.sh
+-'  18  0  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/ndn-interest.h
+-'  1  0  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/ndn-interest.h
+-'  73  3  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/ndn-interest.cc
+-'  210  0  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/ndn-interest.cc
+-'  71  0  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/wire/ndnsim.cc
+-'  117  43  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/wire/ndnsim.cc
+-'  105  44  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/wire/ndnsim.cc
+-'  49  0  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/ndn-interest.cc
+-'  1  0  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/ndn-interest.cc
+-'  124  49  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/wire/ndnsim.cc
+-'  256  0  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/wire/ndn-wire.cc
+-'  1  0  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/wire/ndn-wire.cc
+-'  7  0  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/wire/wire.cc
+-'  1  0  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/wire/wire.cc
+-'  1  0  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/wire/ndn-wire.
+-'  4  5  ~/1
+-'  1  0  ~/1
+-'  120  55  ~/.bashrc
+-'  3  0  ~/Documents/github/ndnSIM/scenario/wscript
+-'  1  0  ~/Documents/github/ndnSIM/scenario/wscript
+-'  1  0  ~/Documents/github/ndnSIM/scenario/a.sh
+-'  231  27  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/fw/ndn-forwarding-strategy.cc
+-'  1  0  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/fw/ndn-forwarding-strategy.cc
+-'  1  0  ~/Documents/git-page/pelican-blog/blog/publish.sh
+-'  6  0  ~/Documents/git-page/pelican-blog/blog/publish.sh
+-'  113  2  ~/Documents/git-page/pelican-blog/blog/content/ndnd与ndnpeek关系文档.md
+-'  2  2  ~/Documents/git-page/pelican-blog/blog/content/ndnd与ndnpeek关系文档.md
+-'  98  0  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/wire/ndnsim.cc
+-'  1  0  ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/wire/ndnsim.cc
+-'  35  2  ~/Documents/git-page/pelican-blog/blog/content/ndnd与ndnpeek关系文档.md
+-'  281  32  ~/Documents/git-page/pelican-blog/blog/content/ndnd与ndnpeek关系文档.md
+-'  232  58  ~/Documents/git-page/pelican-blog/blog/content/ndnd与ndnpeek关系文档.md
+-'  22  21  ~/Documents/github/NDNScript/ospf_conf.sh
+-'  1  0  ~/Documents/github/NDNScript/ospf_conf.sh
+-'  4  0  ~/Documents/github/NDNScript/ospf_conf.sh
+-'  2  0  ~/Documents/github/NDNScript/ospf_conf.sh
+-'  22  0  ~/Documents/github/NDNScript/interface_conf.sh
+-'  30  0  ~/Documents/github/NDNScript/interface_conf.sh
+-'  1  0  ~/Documents/github/NDNScript/interface_conf.sh
+-'  2  0  ~/Documents/github/NDNScript/interface_conf.sh
+-'  1  0  ~/Documents/github/NDNScript/ndninstall/ospfninstall.sh
+-'  3  25  ~/Documents/github/NDNScript/ndninstall/ospfninstall.sh
+-'  1  0  ~/Documents/github/NDNScript/ndninstall/ndnvideoinstall.sh
+-'  2  25  ~/Documents/github/NDNScript/ndninstall/ndnvideoinstall.sh
+-'  1  0  ~/Documents/github/NDNScript/ndninstall/pyccninstall.sh
+-'  2  25  ~/Documents/github/NDNScript/ndninstall/pyccninstall.sh
+-'  1  0  ~/Documents/github/NDNScript/ndninstall/ccnxinstall.sh
+-'  2  25  ~/Documents/github/NDNScript/ndninstall/ccnxinstall.sh
+-'  2  0  ~/Documents/github/NDNScript/ndninstall/ospfninstall.sh
+-'  8  0  ~/Documents/github/NDNScript/ndninstall/ndnvideoinstall.sh
+-'  2  0  ~/Documents/github/NDNScript/ndninstall/installall.sh
+-'  1  0  ~/Documents/github/NDNScript/ndninstall/installall.sh
+-'  1  24  ~/Documents/github/NDNScript/README.md
+-'  1  0  ~/Desktop/NDNScripts/README.md
+-'  98  0  ~/Documents/git-page/pelican-blog/blog/content/blog.md
+-'  176  20  ~/Documents/git-page/pelican-blog/blog/content/blog.md
+-'  4  14  ~/Documents/git-page/pelican-blog/blog/content/test.md
+-'  1  0  ~/Documents/git-page/pelican-blog/blog/content/blogmd
+-'  18  0  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  75  0  ~/Documents/git-page/pelican-blog/blog/content/git.md
+-'  23  3  ~/Documents/git-page/pelican-blog/blog/content/git.md
+-'  39  3  ~/Documents/git-page/pelican-blog/blog/content/git.md
+-'  41  3  ~/Documents/git-page/pelican-blog/blog/content/git.md
+-'  66  68  ~/Documents/git-page/pelican-blog/blog/content/git.md
+
+# 文件内的标记历史记录 (从新到旧):
+
+> ~/.bashrc
+	"	124	0
+	^	132	65
+	.	132	64
+	+	132	64
+
+> ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.cc
+	"	83	26
+	^	83	27
+	.	83	26
+	+	122	26
+	+	58	29
+	+	61	27
+	+	67	55
+	+	68	9
+	+	71	75
+	+	80	59
+	+	81	30
+	+	82	0
+	+	29	26
+	+	31	16
+	+	54	77
+	+	57	45
+	+	84	0
+	+	65	24
+	+	27	0
+	+	27	0
+	+	21	27
+	+	21	32
+	+	21	40
+	+	21	0
+	+	27	0
+	+	22	0
+	+	26	0
+	+	22	0
+	+	84	39
+	+	83	34
+	+	85	0
+	+	83	26
+
+> ~/Documents/github/ndnSIM/scenario/scenarios/ndn-grid-topo-plugin.cc
+	"	63	63
+	^	63	64
+	.	63	63
+	+	58	41
+	+	73	45
+	+	76	29
+	+	78	45
+	+	79	3
+	+	80	3
+	+	85	62
+	+	71	48
+	+	85	61
+	+	63	63
+
+> ~/Documents/github/ndnSIM/scenario/scenarios/flow-bak.cc
+	"	51	50
+	^	57	39
+	.	57	38
+	+	54	0
+	+	52	0
+	+	51	60
+	+	52	40
+	+	52	0
+	+	52	0
+	+	52	66
+	+	52	4
+	+	60	0
+	+	56	57
+	+	57	40
+	+	58	69
+	+	59	0
+	+	52	5
+	+	60	5
+	+	61	0
+	+	54	0
+	+	45	0
+	+	45	0
+	+	74	0
+	+	63	0
+	+	64	0
+	+	52	0
+	+	51	47
+	+	45	0
+	+	48	0
+	+	52	0
+	+	54	0
+	+	55	0
+	+	55	0
+	+	57	0
+	+	61	0
+	+	74	0
+	+	45	0
+	+	52	0
+	+	73	0
+	+	72	35
+	+	52	37
+	+	53	31
+	+	57	38
+
+> ~/Documents/github/ndnSIM/ndnsim-bak-bak/model/fw/ndn-forwarding-strategy.h
+	"	483	0
+
+> ~/Documents/github/ndnSIM/ndnsim-bak-bak/model/fw/ndn-forwarding-strategy.cc
+	"	1	0
+
+> ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/fw/ndn-forwarding-strategy.cc
+	"	287	8
+	^	316	4
+	.	316	3
+	+	312	1
+	+	316	3
+
+> ~/Documents/github/ndnSIM/scenario/extensions-bak/flow-producer.cc
+	"	93	36
+
+> ~/Documents/github/ndnSIM/scenario/scenarios/flow-producer.cc
+	"	7	0
+	.	7	0
+	+	7	0
+
+> ~/Documents/github/ndnSIM/scenario/scenarios/flow.cc
+	"	28	0
+	^	113	44
+	.	113	43
+	+	85	27
+	+	86	5
+	+	87	17
+	+	88	9
+	+	89	59
+	+	90	81
+	+	91	41
+	+	92	39
+	+	95	16
+	+	96	9
+	+	97	59
+	+	98	81
+	+	99	42
+	+	100	41
+	+	102	55
+	+	103	79
+	+	104	36
+	+	105	36
+	+	106	30
+	+	107	9
+	+	108	21
+	+	109	13
+	+	110	62
+	+	111	87
+	+	112	45
+	+	113	43
+
+> ~/Documents/github/ndnSIM/scenario/topo/stream.txt
+	"	69	55
+	^	69	56
+	.	69	55
+	+	52	25
+	+	53	0
+	+	40	28
+	+	69	55
+
+> ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.
+	"	1	0
+
+> ~/Documents/github/ndnSIM/scenario/extensions/flow-consumer.h
+	"	26	5
+	^	22	36
+	.	22	35
+	+	22	35
+
+> ~/Documents/github/ndnSIM/scenario/a.sh
+	"	7	31
+	^	7	32
+	.	7	31
+	+	7	31
+
+> ~/Documents/github/ndnSIM/scenario/extensions/flow-producer.cc
+	"	142	65
+	^	108	42
+	.	141	68
+	+	108	40
+	+	141	0
+	+	108	40
+	+	141	66
+	+	142	65
+	+	141	67
+	+	108	41
+	+	141	68
+
+> ~/Documents/github/ndnSIM/scenario/scenarios/ndn-grid.cc
+	"	107	0
+	^	85	30
+	.	85	29
+	+	87	45
+	+	88	0
+	+	85	29
+
+> ~/Documents/github/ndnSIM/scenario/extensions-bak/flow-consumer.cc
+	"	84	43
+
+> ~/Documents/github/ndnSIM/scenario/scenarios/ndn-grid
+	"	1	0
+
+> ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/ndn-interest.cc
+	"	94	0
+
+> ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/ndn-Interest.cc
+	"	7	0
+	.	7	0
+	+	7	0
+
+> ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/wire/ndn-wire.cc
+	"	306	0
+
+> ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/wire/ndnsim.cc
+	"	250	0
+
+> ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/fw/ndn-forwarding-strategy.
+	"	1	0
+
+> ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/wire/ndnsism.cc
+	"	7	0
+	.	7	0
+	+	7	0
+
+> ~/Documents/github/ndnSIM/scenario/scenarios/flow-bak
+	"	126	0
+
+> ~/Documents/github/ndnSIM/scenario/1
+	"	246	0
+
+> ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/ndn-interest.h
+	"	18	0
+
+> ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/wire/ndnsim/wire-ndnsim.cc
+	"	223	0
+
+> ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/NERD_tree_1
+	"	10	0
+	.	1	0
+	+	1	0
+
+> ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/VERSION
+	"	1	0
+
+> ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/wire/wire.cc
+	"	7	0
+	.	7	0
+	+	7	0
+
+> ~/Documents/github/ndnSIM/ns-3/src/ndnSIM/model/wire/ndn-wire.
+	"	1	0
+
+> ~/1
+	"	4	5
+	^	4	6
+	.	4	5
+	+	4	5
+
+> ~/Documents/github/ndnSIM/scenario/wscript
+	"	3	0
+
+> ~/Documents/git-page/pelican-blog/blog/publish.sh
+	"	1	0
+	^	7	5
+	.	8	0
+	+	2	14
+	+	3	24
+	+	6	27
+	+	7	8
+	+	8	12
+	+	8	20
+	+	6	4
+	+	7	4
+	+	8	0
+
+> ~/Documents/git-page/pelican-blog/blog/content/ndnd与ndnpeek关系文档.md
+	"	113	2
+	^	31	7
+	.	31	6
+	+	5	0
+	+	285	0
+	+	6	45
+	+	11	0
+	+	10	3
+	+	32	0
+	+	30	1
+	+	31	3
+	+	36	0
+	+	35	3
+	+	34	0
+	+	32	40
+	+	33	10
+	+	60	0
+	+	59	3
+	+	63	11
+	+	104	0
+	+	103	3
+	+	121	3
+	+	73	39
+	+	130	6
+	+	132	0
+	+	131	3
+	+	162	0
+	+	161	3
+	+	170	0
+	+	169	3
+	+	206	0
+	+	205	3
+	+	211	43
+	+	220	0
+	+	219	3
+	+	223	0
+	+	222	3
+	+	231	0
+	+	230	3
+	+	235	0
+	+	234	3
+	+	239	0
+	+	238	3
+	+	241	0
+	+	240	3
+	+	245	0
+	+	244	3
+	+	255	0
+	+	254	3
+	+	259	0
+	+	258	3
+	+	261	0
+	+	260	3
+	+	267	0
+	+	266	3
+	+	285	0
+	+	284	3
+	+	32	39
+	+	33	10
+	+	63	11
+	+	109	0
+	+	130	6
+	+	10	5
+	+	31	6
+
+> ~/Documents/github/NDNScript/ospf_conf.sh
+	"	22	21
+	.	2	0
+	+	2	0
+
+> ~/Documents/git-page/pelican-blog/blog/content/ccnx.md
+	"	55	24
+	^	11	0
+	.	24	0
+	+	2	22
+	+	3	25
+	+	6	0
+	+	8	17
+	+	9	3
+	+	26	0
+	+	26	0
+	+	26	17
+	+	26	0
+	+	26	0
+	+	8	4
+	+	152	0
+	+	26	17
+	+	26	0
+	+	9	0
+	+	37	2
+	+	37	0
+	+	50	2
+	+	41	3
+	+	40	0
+	+	50	0
+	+	79	2
+	+	79	0
+	+	113	2
+	+	113	0
+	+	150	2
+	+	150	0
+	+	5	0
+	+	7	145
+	+	43	46
+	+	55	23
+	+	54	0
+	+	54	5
+	+	79	0
+	+	78	6
+	+	78	0
+	+	72	98
+	+	73	103
+	+	75	0
+	+	71	0
+	+	54	0
+	+	53	3
+	+	78	3
+	+	52	0
+	+	72	96
+	+	74	30
+	+	73	72
+	+	74	29
+	+	26	0
+	+	26	1
+	+	26	0
+	+	21	0
+	+	9	0
+	+	24	0
+
+> ~/Documents/git-page/pelican-blog/blog/content/mdtest.md
+	"	211	32
+	^	173	42
+	.	173	41
+	+	78	0
+	+	78	21
+	+	8	78
+	+	12	48
+	+	78	9
+	+	78	30
+	+	78	0
+	+	12	33
+	+	78	0
+	+	78	48
+	+	78	44
+	+	78	15
+	+	78	45
+	+	78	26
+	+	12	34
+	+	12	34
+	+	12	34
+	+	12	34
+	+	78	3
+	+	78	6
+	+	78	3
+	+	78	3
+	+	78	3
+	+	78	0
+	+	78	0
+	+	78	13
+	+	78	13
+	+	78	0
+	+	12	32
+	+	12	54
+	+	12	32
+	+	12	25
+	+	12	32
+	+	78	66
+	+	12	36
+	+	12	32
+	+	12	50
+	+	12	45
+	+	12	42
+	+	12	42
+	+	12	42
+	+	12	44
+	+	12	46
+	+	12	48
+	+	12	32
+	+	12	32
+	+	12	65
+	+	12	48
+	+	12	44
+	+	12	65
+	+	12	57
+	+	12	54
+	+	12	32
+	+	12	32
+	+	12	46
+	+	12	48
+	+	12	50
+	+	12	32
+	+	12	43
+	+	12	67
+	+	10	0
+	+	78	6
+	+	78	34
+	+	78	6
+	+	78	23
+	+	78	3
+	+	78	9
+	+	78	6
+	+	78	23
+	+	78	0
+	+	11	1
+	+	78	1
+	+	2	20
+	+	7	160
+	+	12	32
+	+	78	0
+	+	78	0
+	+	77	0
+	+	12	32
+	+	13	0
+	+	78	0
+	+	11	1
+	+	78	10
+	+	78	75
+	+	12	17
+	+	78	11
+	+	78	0
+	+	298	390
+	+	254	109
+	+	254	0
+	+	254	124
+	+	256	7
+	+	257	31
+	+	261	13
+	+	78	0
+	+	11	2
+	+	78	0
+	+	173	0
+	+	173	0
+	+	173	41
+
+> ~/Documents/github/NDNScript/interface_conf.sh
+	"	22	0
+	.	2	0
+	+	2	0
+
+> ~/Documents/github/NDNScript/ndninstall/ospfninstall.sh
+	"	1	0
+	^	3	26
+	.	3	25
+	+	2	0
+	+	3	25
+
+> ~/Documents/github/NDNScript/ndninstall/ndnvideoinstall.sh
+	"	1	0
+	^	2	26
+	.	2	25
+	+	2	25
+
+> ~/Documents/github/NDNScript/ndninstall/pyccninstall.sh
+	"	1	0
+	^	2	26
+	.	2	25
+	+	2	25
+
+> ~/Documents/github/NDNScript/ndninstall/ccnxinstall.sh
+	"	1	0
+	^	2	26
+	.	2	25
+	+	2	25
+
+> ~/Documents/github/NDNScript/ndninstall/installall.sh
+	"	2	0
+	.	2	0
+	+	2	0
+
+> ~/Documents/github/NDNScript/README.md
+	"	1	24
+	^	1	27
+	.	1	24
+	+	1	24
+
+> ~/Desktop/NDNScripts/README.md
+	"	1	0
+
+> ~/Documents/git-page/pelican-blog/blog/content/blog.md
+	"	98	0
+	^	182	48
+	.	182	48
+	+	6	5
+	+	18	4
+	+	6	4
+	+	232	3
+	+	23	1
+	+	18	4
+	+	6	5
+	+	14	30
+	+	12	99
+	+	6	1
+	+	12	89
+	+	18	44
+	+	14	288
+	+	6	27
+	+	7	17
+	+	6	0
+	+	18	3
+	+	6	26
+	+	18	3
+	+	6	0
+	+	7	0
+	+	6	1
+	+	232	0
+	+	232	38
+	+	23	50
+	+	232	38
+	+	22	9
+	+	232	0
+	+	23	52
+	+	2	41
+	+	14	289
+	+	18	88
+	+	18	0
+	+	14	289
+	+	14	88
+	+	14	0
+	+	14	0
+	+	15	0
+	+	14	283
+	+	14	286
+	+	15	0
+	+	22	52
+	+	232	0
+	+	25	20
+	+	145	0
+	+	49	15
+	+	232	15
+	+	21	3
+	+	49	0
+	+	26	0
+	+	232	4
+	+	232	19
+	+	48	0
+	+	48	1
+	+	27	0
+	+	28	0
+	+	48	3
+	+	26	1
+	+	27	1
+	+	28	1
+	+	48	117
+	+	48	0
+	+	49	107
+	+	49	0
+	+	48	28
+	+	48	7
+	+	48	0
+	+	48	0
+	+	29	101
+	+	29	6
+	+	47	0
+	+	47	0
+	+	31	102
+	+	32	93
+	+	35	133
+	+	50	150
+	+	52	189
+	+	52	191
+	+	50	151
+	+	60	263
+	+	62	3
+	+	63	21
+	+	125	21
+	+	144	4
+	+	2	57
+	+	232	0
+	+	147	181
+	+	147	0
+	+	147	164
+	+	232	0
+	+	231	0
+	+	147	175
+	+	147	0
+	+	229	14
+	+	182	48
+
+> ~/Documents/git-page/pelican-blog/blog/content/test.md
+	"	4	14
+	^	2	22
+	.	2	21
+	+	1	15
+	+	2	27
+	+	5	0
+	+	6	0
+	+	27	0
+	+	2	23
+	+	27	0
+	+	8	120
+	+	15	191
+	+	15	143
+	+	27	0
+	+	15	123
+	+	16	149
+	+	16	113
+	+	17	186
+	+	18	162
+	+	15	123
+	+	17	57
+	+	16	119
+	+	17	54
+	+	17	174
+	+	18	54
+	+	23	30
+	+	16	113
+	+	17	3
+	+	15	45
+	+	17	45
+	+	17	42
+	+	17	129
+	+	18	42
+	+	18	129
+	+	20	36
+	+	19	129
+	+	23	126
+	+	23	122
+	+	24	15
+	+	20	129
+	+	26	117
+	+	11	0
+	+	12	124
+	+	13	61
+	+	22	0
+	+	1	15
+	+	2	21
+
+> ~/Documents/git-page/pelican-blog/blog/content/blogmd
+	"	1	0
+
+> ~/Desktop/NDNScripts/interface_conf.sh
+	"	18	0
+
+> ~/Desktop/NDNScripts/ndninstall/ospfninstall.sh
+	"	11	0
+
+> ~/Documents/git-page/pelican-blog/blog/content/ccnc.md
+	"	1	0
+
+> ~/Documents/git-page/pelican-blog/blog/content/ccndx.md
+	"	1	0
+
+> ~/Documents/github/myccnx/csrc/mytest/sendtest/myccnsend.c
+	"	130	0
+
+> ~/Documents/github/myccnx/csrc/mytest/sendtest/myccnsend.h
+	"	10	0
+
+> ~/Documents/github/myccnx/csrc/mytest/sendtest/Makefile
+	"	6	0
+
+> ~/Documents/github/myccnx/csrc/mytest/Makefile
+	"	17	0
+
+> ~/Documents/github/myccnx/csrc/mytest/start.sh
+	"	1	0
+
+> /var/tmp/ccnd.log
+	"	107	0
+
+> ~/Documents/git-page/pelican-blog/blog/content/git.md
+	"	75	0
+	^	22	4
+	.	22	0
+	+	13	5
+	+	19	0
+	+	17	7
+	+	9	1
+	+	39	1
+	+	14	10
+	+	15	36
+	+	16	10
+	+	9	2
+	+	39	0
+	+	24	0
+	+	39	0
+	+	24	0
+	+	39	14
+	+	39	116
+	+	39	11
+	+	55	0
+	+	74	4
+	+	74	0
+	+	74	0
+	+	42	14
+	+	50	20
+	+	74	0
+	+	57	44
+	+	74	0
+	+	57	83
+	+	58	41
+	+	61	369
+	+	65	39
+	+	73	590
+	+	61	370
+	+	65	0
+	+	64	2
+	+	63	2
+	+	57	87
+	+	74	66
+	+	41	3
+	+	74	13
+	+	75	0
+	+	76	1
+	+	74	0
+	+	66	66
+	+	76	11
+	+	92	12
+	+	92	12
+	+	93	0
+	+	57	89
+	+	93	27
+	+	97	0
+	+	93	19
+	+	91	39
+	+	90	0
+	+	93	24
+	+	94	73
+	+	90	0
+	+	89	48
+	+	95	43
+	+	96	53
+	+	87	90
+	+	84	91
+	+	82	28
+	+	80	19
+	+	78	7
+	+	79	13
+	+	80	21
+	+	81	13
+	+	83	10
+	+	85	12
+	+	86	89
+	+	88	11
+	+	90	15
+	+	92	13
+	+	93	41
+	+	94	74
+	+	95	44
+	+	66	68
+	+	39	0
+	+	39	0
+	+	39	216
+	+	39	0
+	+	39	0
+	+	39	216
+	+	39	0
+	+	39	0
+	+	39	8
+	+	24	0
+	+	39	232
+	+	39	4
+	+	41	3
+	+	39	4
+	+	41	0
+	+	39	4
+	+	39	0
+	+	24	0
+	+	39	0
+	+	38	0
+	+	20	0
+	+	23	226
+	+	23	0
+	+	22	0
+
+> ~/Documents/git-page/pelican-blog/blog/content/paper.md
+	"	5	154
+	^	5	157
+	.	5	154
+	+	1	15
+	+	2	20
+	+	3	15
+	+	4	15
+	+	11	0
+	+	10	95
+	+	10	0
+	+	10	90
+	+	1	15
+	+	7	57
+	+	3	5
+	+	9	4
+	+	1	15
+	+	9	0
+	+	7	21
+	+	5	154
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/base.html
+	"	14	0
+	^	56	79
+	.	56	79
+	+	83	87
+	+	83	0
+	+	55	0
+	+	56	78
+	+	56	79
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/_includes/header.html
+	"	2	0
+
+> ~/Documents/git-page/pelican-blog/blog/pelicanconf.py
+	"	8	50
+	^	8	51
+	.	8	50
+	+	6	39
+	+	9	32
+	+	13	24
+	+	59	22
+	+	62	28
+	+	35	49
+	+	36	46
+	+	34	45
+	+	34	44
+	+	34	46
+	+	34	4
+	+	18	38
+	+	18	20
+	+	22	34
+	+	23	38
+	+	57	6
+	+	61	7
+	+	28	27
+	+	37	0
+	+	39	34
+	+	40	30
+	+	43	11
+	+	44	18
+	+	45	18
+	+	46	23
+	+	47	22
+	+	48	19
+	+	50	19
+	+	51	29
+	+	52	26
+	+	53	25
+	+	44	18
+	+	39	31
+	+	10	31
+	+	34	4
+	+	31	65
+	+	59	31
+	+	24	34
+	+	26	36
+	+	18	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	18
+	+	27	23
+	+	40	44
+	+	17	23
+	+	16	0
+	+	17	21
+	+	18	18
+	+	17	22
+	+	18	17
+	+	18	18
+	+	18	0
+	+	18	0
+	+	18	15
+	+	59	23
+	+	17	33
+	+	34	0
+	+	59	31
+	+	34	0
+	+	34	1
+	+	34	0
+	+	34	0
+	+	11	0
+	+	8	50
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/page.html
+	"	2	0
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/index.html
+	"	8	0
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/_includes/sidebar.html
+	"	4	110
+	^	10	27
+	.	10	27
+	+	27	0
+	+	27	0
+	+	27	41
+	+	27	44
+	+	27	0
+	+	27	41
+	+	27	41
+	+	27	38
+	+	27	38
+	+	27	0
+	+	29	0
+	+	59	0
+	+	27	0
+	+	27	2
+	+	27	0
+	+	7	0
+	+	27	0
+	+	59	0
+	+	27	0
+	+	27	0
+	+	27	0
+	+	26	14
+	+	7	0
+	+	27	0
+	+	58	0
+	+	58	0
+	+	20	0
+	+	20	0
+	+	20	0
+	+	9	4
+	+	19	0
+	+	10	27
+
+> ~/Documents/git-page/pelican-blog/blog/publish
+	"	1	0
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/categories.html
+	"	2	3
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/_includes/github.html
+	"	21	0
+
+> /usr/local/lib/python2.7/dist-packages/pelican/themes/pelican-octopress-theme/templates/_includes/links.html
+	"	5	0
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/_includes/links.html
+	"	12	2
+	^	7	3
+	.	12	0
+	+	3	0
+	+	13	0
+	+	13	49
+	+	3	19
+	+	13	0
+	+	12	0
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/categor
+	"	1	0
+
+> ~/Documents/git-page/pelican-blog/blog/blog/markdown.html
+	"	3	0
+
+> ~/Documents/git-page/jekyll_demo/_layouts/default.html
+	"	1	0
+
+> ~/Documents/git-page/jekyll_demo/index.html
+	"	4	0
+
+> ~/Documents/show.ejs
+	"	4	0
+
+> ~/Documents/blog/title.html
+	"	7	0
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/static/css/main.css
+	"	1	1205
+
+> ~/Documents/git-page/pelican-blog/blog/blog/index.html
+	"	94	60
+	^	90	54
+	.	90	53
+	+	6	0
+	+	210	0
+	+	29	0
+	+	26	84
+	+	91	51
+	+	28	0
+	+	27	95
+	+	90	53
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/_includes/article.html
+	"	25	0
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/article.html
+	"	4	0
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/_includes/social.html
+	"	9	25
+
+> ~/Documents/git-page/pelican-blog/blog/output/index.html
+	"	248	0
+	^	240	20
+	.	206	0
+	+	240	19
+	+	206	0
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/static/js/ender.js
+	"	5	0
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/_includes/twitter_sidebar.html
+	"	46	0
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/_includes/pagination.html
+	"	7	0
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/README.rst
+	"	34	0
+
+> ~/Documents/git-page/pelican-blog/blog/fabfile.py
+	"	26	0
+
+> ~/Documents/git-page/pelican-blog/blog/pelicanconf.pyc
+	"	1	0
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/tag.html
+	"	27	0
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/category.html
+	"	20	0
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/_includes/article_time.html
+	"	1	24
+
+> ~/Documents/git-page/pelican-blog/blog/pelican-themes/pelican-octopress-theme/templates/_includes/article
+	"	1	0
+
+> ~/Documents/git-page/pelican-blog/onCrashReboot/content/Career Advice/career-advice-from-a-fitness-coach.rst
+	"	42	0
+
+> ~/Documents/git-page/pelican-blog/onCrashReboot/content/Elegant - Pelican Theme/assets-plugin.md
+	"	28	0
+
+> ~/Documents/git-page/pelican-blog/onCrashReboot/content/OSX Software Development/how-to-open-mac-appstore-programmatically.md
+	"	19	0
+	^	33	0
+
+> ~/Documents/git-page/pelican-blog/blog/content/Title.md
+	"	6	86
+	^	6	87
+	.	6	86
+	+	6	86
+
+> ~/Documents/git-page/pelican-blog/blog/content/利用Pelican和Markdown搭建自己的github静态Blog.md
+	"	7	15
+	^	4	0
